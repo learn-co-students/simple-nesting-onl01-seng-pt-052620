@@ -130,10 +130,7 @@ def adding_to_dennis
      }
      programmer_hash[:dennis_ritchie][:languages] << "Assembly"
      return programmer_hash
-    # programmer_hash.each do |key, value|
-    #   value.each do |key1, value1|
-    #     value1 << 'Assembly'
-    #   end
-    # end
+     
+   
 
 end
