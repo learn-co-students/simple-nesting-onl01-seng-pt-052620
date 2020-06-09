@@ -127,4 +127,5 @@ def adding_to_dennis
         }
      }
 programmer_hash[:dennis_ritchie][:languages]<<"Hola"
+programmer_hash
 end
